@@ -1,6 +1,3 @@
+export const SITE_NAME = "theneelshah";
 
-
-export const SITE_NAME = 'Nice Tat'
-
-
-export const DESCRIPTION = 'Astro Site Template inspired by Casey Neistat’s ultra minimal personal site. '
+export const DESCRIPTION = "theneelshah - GUI based portfolio";
