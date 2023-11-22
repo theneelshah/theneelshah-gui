@@ -1,8 +1,7 @@
 ---
 layout: ../layouts/Layout.astro
 ---
-<!-- Markdown Preview - https://dillinger.io/ -->
 
-are you trying to contact me for a
+![alt text](../neel.png)
 
-[business inquiry](/business-inquiry) or [something else](/something-else)?
+You can either <a href="mailto:neeljs@uci.edu" target="_blank">mail me</a> or <a href="tel:949-678-2052" target="_blank">call me</a>!

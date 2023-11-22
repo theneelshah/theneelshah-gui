@@ -39,14 +39,15 @@ const pageTitle = [
 		<ViewTransitions />
 	</head>
 	<body class={`text-gray-500 dark:text-gray-100 ${ isHome ? 'is-home' : '' }`}>
-		<div class="max-w-5xl mx-auto space-y-4 py-16 px-14">
+		<div class="max-w-5xl space-y-4 py-16 px-14" 
+			style="margin: 20px auto; border: 2px solid #ffb86c">
 			<main 
-				class="max-w-xl"
+				class="max-w-3xl"
 			>
 				<slot />
 			</main>
 
-			<footer>
+			<footer style="font-size: 1.3rem; margin-top: 2.5rem;">
 				{ !isHome && (
 					<a href="/">home</a>
 				)}
@@ -70,7 +71,7 @@ const pageTitle = [
 		font-family: "JetBrains Mono", system-ui, sans-serif;
 		font-size: 12px;
 		line-height: 1.2rem;
-		background: #13151a;
+		background: #282a36;
 		background-size: 224px;
 	}
 
@@ -105,13 +106,30 @@ const pageTitle = [
 			monospace;
 	}
 
-	h1 {
-		font-size: 1.1rem;
-		font-style: italic;
-		font-weight: 500;
-		margin-bottom: 0.3rem;
+	img {
+		width: 200px;
+		margin-bottom: 4.5rem;
+	}
+	p {
+		font-size: 2rem;
+		margin: 1rem 0;
 	}
 
+	a {
+		text-decoration: underline;
+	}
+	h1 {
+		font-size: 4rem;
+		font-style: italic;
+		font-weight: 500;
+		margin-bottom: 4.5rem;
+	}
+
+	h2 {
+		line-height: normal;
+    	font-size: medium;
+		margin-bottom: 4.5rem;
+	}
 
 	body:not(.is-home) a {
 		text-decoration: underline;
