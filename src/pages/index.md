@@ -9,7 +9,7 @@ title: theneelshah
 
 ![alt text](../neel.png)
 
-## I'm Neel, currently pursuing my Masters of Software Engineering at University of California, Irvine. I like problem solving. My hobbies includes travelling, playing board games and working out.
+## I'm Neel, currently pursuing my Masters of Software Engineering at University of California, Irvine. I like travelling, playing board games and working out.
 
 - [social](/social)
 
