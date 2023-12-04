@@ -15,6 +15,6 @@ title: theneelshah
 
 - <a href="https://terminal.theneelshah.com" target="_blank">terminal based portfolio</a>
 
-- <a href="https://drive.google.com/file/d/1paEFr9b8ZNGKzd10mDF7pfj4UU52Q6NR/view" target="_blank">resume</a>
+- <a href="https://drive.google.com/drive/folders/1-1noep8hRYEaLwGTGmECzNfom9HjCTDs?usp=drive_link" target="_blank">resume</a>
 
 - [contact](/contact)
